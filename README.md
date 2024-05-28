@@ -1,4 +1,7 @@
+<img src="https://github.com/kfrancis/CommunityAbp.Caching.HybridCache/assets/67574/6f74f14c-4e65-4019-af4d-f235a4a2737d" width="256">
+
 # CommunityAbp.Caching.HybridCache
+
 Utilize the new .NET 9 hybrid cache API to use within abp for IDistributedCache
 
 ## Should you use this yet?
