@@ -26,7 +26,7 @@
 		<Authors>kfrancis</Authors>
 		<Description>Hybrid cache is a new feature to .net 9, so lets allow it to be used by abp</Description>
 		<PackageProjectUrl>https://github.com/kfrancis/CommunityAbp.Caching.HybridCache</PackageProjectUrl>
-
+		<PackageIcon>AbpHybridCache.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -45,5 +45,9 @@
     </PackageReference>
     <PackageReference Include="Volo.Abp.Caching" Version="8.1.3" />
   </ItemGroup>
+
+  <ItemGroup>
+	<None Include="AbpHybridCache.png" Pack="true" PackagePath="" />
+</ItemGroup>
 
 </Project>
